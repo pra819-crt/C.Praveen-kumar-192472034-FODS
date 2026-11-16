@@ -1,0 +1,11 @@
+id,name,age,gender,study_hours,exam_score,math,science,english,history,area_sqft,bedrooms,house_price,product,quantity,unit_price,amount_spent,visits,rating,body_fat,temperature,city,feedback,category,outcome
+1,Asha,20,F,3.5,82,85,80,88,78,1200,2,4500000,Laptop,1,55000,55000,3,5,22.5,31.2,Chennai,The product is good and delivery was fast,Electronics,Good
+2,Rahul,21,M,2.0,68,70,75,72,69,900,2,3200000,Phone,2,18000,36000,5,4,18.2,32.0,Chennai,Good product and useful features,Electronics,Good
+3,Meena,19,F,4.0,91,92,90,94,88,1500,3,6200000,Book,3,450,1350,2,5,24.1,30.8,Madurai,Excellent quality and fast delivery,Books,Good
+4,Arun,22,M,1.5,60,62,65,58,64,800,1,2800000,Headphones,1,2200,2200,6,3,20.3,33.1,Coimbatore,The delivery was late but product is okay,Electronics,Bad
+5,Priya,20,F,5.0,95,96,94,97,92,1800,4,8500000,Tablet,1,25000,25000,4,5,21.4,29.9,Chennai,Very good quality and excellent service,Electronics,Good
+6,Karthik,23,M,2.5,74,76,72,75,73,1100,2,4000000,Bag,2,1200,2400,7,4,19.8,31.8,Madurai,Useful product but packaging was poor,Accessories,Bad
+7,Divya,18,F,3.0,79,81,78,83,75,1000,2,3500000,Notebook,5,80,400,3,4,23.0,30.5,Coimbatore,Good value and easy to use,Books,Good
+8,Vijay,24,M,1.0,55,58,60,52,56,700,1,2400000,Mouse,2,650,1300,8,2,25.2,34.0,Chennai,Poor quality and slow delivery,Electronics,Bad
+9,Sneha,21,F,4.5,89,90,87,91,86,1600,3,7000000,Watch,1,3200,3200,2,5,22.1,30.1,Madurai,Excellent product and good service,Accessories,Good
+10,Manoj,22,M,2.2,70,72,71,68,70,950,2,3300000,Shoes,1,2800,2800,4,3,20.7,32.4,Coimbatore,Average quality but good price,Clothing,Bad

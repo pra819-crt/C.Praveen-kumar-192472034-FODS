@@ -1,0 +1,16 @@
+
+with open("sample_text.txt", "r") as file:
+    text = file.read()
+
+words = text.lower().split()
+
+frequency = {}
+
+for word in words:
+    word = word.strip(".,!?")
+    if word:
+        frequency[word] = frequency.get(word, 0) + 1
+
+print("Word Frequency Distribution:")
+for word, count in frequency.items():
+    print(word, ":", count)
